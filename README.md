@@ -2,6 +2,8 @@
 // I apologize if there are any mistakes.
 // I apologize if there are any mistakes.
 
+//This project has not been successful so far but continues to progress.
+
 "# Socket-nestjs-for-edu"
 for thai people 
 list server 

@@ -20,10 +20,9 @@ WebSocket เป็นโปรโตคอลที่ออกแบบมา�
 
 การเชื่อมต่อ database to moongo db
  เราสารถใช้คำสั่ง สิ่งที่จำเป็น database schema message  ถ้ามีการสร้างModule คนละที่กัน ต้อง import อย่างถูกวิธี 
- nest generate database message
- nest generate message message
+ nest generate module database
+ nest generate module message
  nest generate service message
- nest generate class message/message.schema
 
 doc relate this project 
 https://docs.nestjs.com/websockets

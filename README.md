@@ -38,7 +38,8 @@ list server
  
 list client 
  - npm i -g @nestjs/cli 
- - nest new project-name - npm i socket.io-client 
+ - nest new project-name
+ - npm i socket.io-client 
  - npm install @nestjs/mongoose mongoose 
 
 list websocket

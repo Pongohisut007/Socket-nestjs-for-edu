@@ -31,7 +31,9 @@ https://www.mongodb.com/docs/
 
 "# Socket-nestjs-for-edu" 
 for  english people 
-list server 
+list server
+ - npm i -g @nestjs/cli 
+ - nest new project-name 
  - npm i --save @nestjs/websockets @nestjs/platform-socket.io 
  
 list client 
